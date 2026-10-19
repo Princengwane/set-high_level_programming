@@ -1,0 +1,2 @@
+O(log(n))
+Each step discards half of the list, so the number of values looked at doubles down.
